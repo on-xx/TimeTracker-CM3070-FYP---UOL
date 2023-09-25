@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611873874037",
+    "project_id": "timetracker-cd70d",
+    "storage_bucket": "timetracker-cd70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611873874037:android:89e8e4881de0069347d83c",
+        "android_client_info": {
+          "package_name": "com.timetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYPPzebfzL1-bIqT565_4iJQkq-wEoCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
